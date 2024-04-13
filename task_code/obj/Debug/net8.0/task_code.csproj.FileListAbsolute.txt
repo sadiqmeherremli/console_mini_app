@@ -1,0 +1,15 @@
+D:\console_mini_app\task_code\bin\Debug\net8.0\task_code.exe
+D:\console_mini_app\task_code\bin\Debug\net8.0\task_code.deps.json
+D:\console_mini_app\task_code\bin\Debug\net8.0\task_code.runtimeconfig.json
+D:\console_mini_app\task_code\bin\Debug\net8.0\task_code.dll
+D:\console_mini_app\task_code\bin\Debug\net8.0\task_code.pdb
+D:\console_mini_app\task_code\obj\Debug\net8.0\task_code.GeneratedMSBuildEditorConfig.editorconfig
+D:\console_mini_app\task_code\obj\Debug\net8.0\task_code.AssemblyInfoInputs.cache
+D:\console_mini_app\task_code\obj\Debug\net8.0\task_code.AssemblyInfo.cs
+D:\console_mini_app\task_code\obj\Debug\net8.0\task_code.csproj.CoreCompileInputs.cache
+D:\console_mini_app\task_code\obj\Debug\net8.0\task_code.sourcelink.json
+D:\console_mini_app\task_code\obj\Debug\net8.0\task_code.dll
+D:\console_mini_app\task_code\obj\Debug\net8.0\refint\task_code.dll
+D:\console_mini_app\task_code\obj\Debug\net8.0\task_code.pdb
+D:\console_mini_app\task_code\obj\Debug\net8.0\task_code.genruntimeconfig.cache
+D:\console_mini_app\task_code\obj\Debug\net8.0\ref\task_code.dll
